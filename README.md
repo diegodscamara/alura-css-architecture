@@ -30,9 +30,6 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repo
 <pre>git clone https://github.com/diegodscamara/alura-css-architecture </pre>
 
-2. Install NPM pakcages
-<pre>npm install</pre>
-
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
